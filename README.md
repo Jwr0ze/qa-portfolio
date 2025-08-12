@@ -5,7 +5,8 @@ I'm an aspiring QA Analyst with a strong foundation in manual testing and a grow
 ---
 
 ## 🧪 Tools
-- GitHub
+- GitHub]
+- Zephyr
 - Jira
 - Trello
 - Visual Studio
