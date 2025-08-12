@@ -21,6 +21,7 @@ The goal was to validate core functionalities such as user authentication, produ
 | Tool/Technology       | Purpose                                |
 |----------------------|----------------------------------------|
 | Google Sheets        | Documenting test cases and results     |
+| Trello               | Writing test scenarios                 |
 | Jira                 | Bug tracking and management            |
 | Zephyr               | Writing and managing test cases        |
 | GitHub               | Version Control                        |
