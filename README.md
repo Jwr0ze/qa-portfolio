@@ -5,7 +5,7 @@ I'm an aspiring QA Analyst with a strong foundation in manual testing and a grow
 ---
 
 ## 🧪 Tools
-- GitHub]
+- GitHub
 - Zephyr
 - Jira
 - Trello
@@ -25,7 +25,7 @@ I'm an aspiring QA Analyst with a strong foundation in manual testing and a grow
 ## 📂 Projects
 
 ###  Manual Testing
--  *Coming soon*
+-  [SauceDemo](https://github.com/Jwr0ze/qa-portfolio/tree/main/SauceDemo_ManualTesting%20)
 
 ###  Automation Testing
 -  *Coming soon*
